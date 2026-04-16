@@ -3,3 +3,4 @@ transformers
 gradio
 audiocraft
 scipy
+av==12.3.0
